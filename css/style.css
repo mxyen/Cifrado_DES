@@ -1,0 +1,61 @@
+*{
+    padding: 0.3rem;
+    text-align: center;
+}
+
+body{
+    background-color: #966d97;
+
+}
+
+h1,h2{
+    font-family:URW Chancery L, cursive	 ;
+}   
+p{
+    font-family:Comic Sans MS, Comic Sans;
+    font-size: 1.5rem;  
+}
+
+.main-container{
+    padding: 30px;     
+    box-shadow: 8px 8px 35px 0px rgba(58, 15, 57, 0.75);     
+    width: 50%;   
+    display: inline-block;    
+    border: 5px solid rgb(92, 2, 110);
+    margin: 2rem;    
+    border-radius: 20px;
+    background-color: rgb(237, 181, 224);
+}
+
+.cifrar{
+    background-color: rgb(251, 239, 221);
+}
+
+#boton{  
+    
+    margin-top: 1rem;    
+    padding: 0.5rem;
+    border-radius: 0.2rem;
+    width: auto;
+    height: auto;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+   
+}
+
+#boton:hover {
+    background: transparent;       
+    background-image: linear-gradient(to bottom, #6e4376, #966d97);
+    text-decoration: none;
+}
+
+#clavedes{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+#archivodes{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
